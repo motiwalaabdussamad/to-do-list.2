@@ -94,6 +94,8 @@ clear_task_button = tk.Button(button_frame,text = "clear all ",command=clear_all
 clear_task_button.grid(row = 0 , column = 2, padx = 10)
 load_file()
 
+# testing
+print("hello")
 
 root.mainloop()
 
